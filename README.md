@@ -1,5 +1,5 @@
 # CSE_465_Neural_Network
-This is a Neural Network project  for course CSE_465
+This is a Neural Network project  for course CSE_465.<br>
 This project aims to compare the effectiveness of a custom CNN (Convolutional
 Neural Network) and a Feedforward Network for image classification using a small
 dataset from Tiny ImageNet. The dataset comprises 500-1000 images across ten distinct
